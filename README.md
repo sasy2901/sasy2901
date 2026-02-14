@@ -42,7 +42,3 @@ I am a **Senior MLE** specializing in building **production-grade Generative AI 
 | **Languages** | Python (3.11+), SQL, Bash |
 
 ---
-
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/sahil-rana](https://www.linkedin.com/in/sahil-rana-8a77213a9/)
-- **Email:** [srdc217@gmail.com](mailto:srdc217@gmail.com)
