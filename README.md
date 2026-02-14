@@ -44,5 +44,5 @@ I am a **Senior MLE** specializing in building **production-grade Generative AI 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sahil-rana-8a77213a9/))
+- **LinkedIn:** (https://www.linkedin.com/in/sahil-rana-8a77213a9/)
 - **Email:** (srdc217@gmail.com)
