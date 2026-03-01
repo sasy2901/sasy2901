@@ -9,26 +9,11 @@ I am a **Senior MLE** specializing in building **production-grade Generative AI 
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects🎙️ [Eva - Real-Time Multimodal Voice Agent]<500ms latency voice agent capable of full-duplex conversations and sentiment-driven UI modulation.Architecture: Llama-3 (70B) on Groq LPU for ultra-low latency inference, paired with Deepgram (Nova-2/Aura) for STT/TTS.Engineering: Engineered a non-blocking streaming audio pipeline using FastAPI and WebSockets.Key Feature: Dynamically modulates system responses and frontend themes based on real-time user sentiment analysis (TextBlob).
 
-### 🎙️ [Eva - Real-Time Multimodal Voice Agent]
-*A <500ms latency voice agent capable of full-duplex conversations.*
-- **Architecture:** Llama-3 (70B) on **Groq LPU** for inference + **Deepgram** for STT/TTS.
-- **Engineering:** Built with **FastAPI** and **WebSockets** for streaming audio buffers.
-- **Key Feature:** Handles interruptions gracefully and maintains context over long sessions.
+🧠 [DocuMind Pro - Enterprise Agentic RAG]Containerized Multi-Modal workspace with autonomous routing between document retrieval, web search, and vision analysis.Architecture: Orchestrated via LangChain, utilizing Llama-3.2-Vision (Groq) and ChromaDB.Pipeline: Implements an Agent Router to dynamically seamlessly shift between semantic PDF search, live DuckDuckGo web scraping, and computer vision analysis (chart/image interpretation).Ops: Production-ready; strictly containerized using a slim Docker environment with non-root security policies, deployed via Streamlit.
 
-### 📈 [WallStreet - Financial Reasoning Agent]
-*Autonomous ReAct Agent for complex financial market analysis.*
-- **Tech Stack:** **LangGraph**, **Llama-3**, and **ChromaDB**.
-- **Performance:** Outperforms zero-shot baselines by **35%** in financial data retrieval tasks.
-- **System:** Implements **Hybrid Search** (Keyword + Semantic) for precise document retrieval.
-
-### 📄 [DocuMind Pro - Enterprise RAG Pipeline]
-*Secure, containerized document intelligence system.*
-- **Ops:** Fully containerized with **Docker** and deployed via **AWS ECS**.
-- **Pipeline:** Uses **Unstructured.io** for ETL and **MinHash LSH** for deduplication.
-
----
+📈 [WallStreet LLM - Domain-Specific Fine-Tuning & ReAct Agent]End-to-end ML optimization pipeline featuring parameter-efficient fine-tuning (PEFT), data deduplication, and high-throughput inference.Optimization: Leveraged Unsloth and 4-bit Quantization (QLoRA) to fine-tune Llama-3 8B on consumer GPUs while avoiding memory bottlenecks.Data Engineering: Implemented MinHash LSH (datasketch) for $O(1)$ duplicate detection, cutting noise and accelerating training convergence by 2x.Serving: Features a custom ReAct (Reason + Act) routing heuristic and is packaged with a FastAPI/vLLM deployment template sustaining 50 tokens/sec.
 
 ## 🛠️ Technical Arsenal
 
