@@ -9,7 +9,9 @@ I am a **Senior MLE** specializing in building **production-grade Generative AI 
 
 ---
 
-🚀 Featured Projects🎙️ [Eva - Real-Time Multimodal Voice Agent]<500ms latency voice agent capable of full-duplex conversations and sentiment-driven UI modulation.Architecture: Llama-3 (70B) on Groq LPU for ultra-low latency inference, paired with Deepgram (Nova-2/Aura) for STT/TTS.Engineering: Engineered a non-blocking streaming audio pipeline using FastAPI and WebSockets.Key Feature: Dynamically modulates system responses and frontend themes based on real-time user sentiment analysis (TextBlob).
+🚀 Featured Projects
+
+🎙️ [Eva - Real-Time Multimodal Voice Agent]<500ms latency voice agent capable of full-duplex conversations and sentiment-driven UI modulation.Architecture: Llama-3 (70B) on Groq LPU for ultra-low latency inference, paired with Deepgram (Nova-2/Aura) for STT/TTS.Engineering: Engineered a non-blocking streaming audio pipeline using FastAPI and WebSockets.Key Feature: Dynamically modulates system responses and frontend themes based on real-time user sentiment analysis (TextBlob).
 
 🧠 [DocuMind Pro - Enterprise Agentic RAG]Containerized Multi-Modal workspace with autonomous routing between document retrieval, web search, and vision analysis.Architecture: Orchestrated via LangChain, utilizing Llama-3.2-Vision (Groq) and ChromaDB.Pipeline: Implements an Agent Router to dynamically seamlessly shift between semantic PDF search, live DuckDuckGo web scraping, and computer vision analysis (chart/image interpretation).Ops: Production-ready; strictly containerized using a slim Docker environment with non-root security policies, deployed via Streamlit.
 
