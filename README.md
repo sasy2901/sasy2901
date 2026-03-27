@@ -1,11 +1,13 @@
 # Hi, I'm Sahil Rana 👋
-**Senior Machine Learning Engineer | Generative AI Architect**
 
-I am a Senior MLE specializing in building **production-grade Generative AI systems**. My focus is on **Low-Latency Inference**, **Cost Optimization**, and **Agentic Workflows**. I bridge the gap between "Research" and "Reliable Production Systems."
+**Junior Machine Learning Engineer | GenAI Builder**
 
-* 🔭 **Currently working on:** Real-time Voice AI Agents with <500ms latency.
-* 💡 **Core Expertise:** Quantization (QLoRA), RAG Systems, and High-Throughput Inference (vLLM/Groq).
-* ⚡ **Impact:** Reduced cloud inference costs by **40%** by migrating GPT-4 workloads to optimized Llama-3 models.
+I am an aspiring Machine Learning Engineer specializing in building robust, high-performance Generative AI applications. My focus is on applied AI—bridging the gap between theoretical research and deployable, real-world systems through Low-Latency Inference, Agentic Workflows, and Model Optimization. 
+
+🔭 **Currently working on:** Real-time Voice AI Agents with <500ms latency.  
+💡 **Core Expertise:** Vector Search (RAG), Quantization (QLoRA), and High-Throughput Inference architectures (vLLM/Groq/FastAPI).  
+🚀 **Mission:** Transitioning my deep, self-directed engineering experience into a high-impact ML role to build scalable, production-ready AI products.
+
 
 ---
 
