@@ -1,4 +1,3 @@
-
 # Hi, I'm Sahil Rana 👋
 
 **Junior Machine Learning Engineer | GenAI Builder**
@@ -13,19 +12,19 @@ I am a Machine Learning Engineer specializing in building robust, high-performan
 
 ### 🚀 Featured Projects
 
-#### 🎙️ [Eva - Real-Time Multimodal Voice Agent](link-to-repo)
+#### 🎙️ [Eva - Real-Time Multimodal Voice Agent](https://github.com/sasy2901/eva-ai-voice-assistant)
 <500ms latency voice agent capable of full-duplex conversations and sentiment-driven UI modulation.
 * **Architecture:** Llama-3 (70B) on Groq LPU for ultra-low latency inference, paired with Deepgram (Nova-2/Aura) for STT/TTS.
 * **Engineering:** Engineered a non-blocking streaming audio pipeline using FastAPI and WebSockets.
 * **Key Feature:** Dynamically modulates system responses and frontend themes based on real-time user sentiment analysis (TextBlob).
 
-#### 🧠 [DocuMind Pro - Enterprise Agentic RAG](link-to-repo)
+#### 🧠 [DocuMind Pro - Enterprise Agentic RAG](https://github.com/sasy2901/DocuMind_Pro)
 Containerized Multi-Modal workspace with autonomous routing between document retrieval, web search, and vision analysis.
 * **Architecture:** Orchestrated via LangChain, utilizing Llama-3.2-Vision (Groq) and ChromaDB.
 * **Pipeline:** Implements an Agent Router to dynamically shift between semantic PDF search, live DuckDuckGo web scraping, and computer vision analysis (chart/image interpretation).
 * **Ops:** Production-ready; strictly containerized using a slim Docker environment with non-root security policies, deployed via Streamlit.
 
-#### 📈 [WallStreet LLM - Domain-Specific Fine-Tuning & ReAct Agent](link-to-repo)
+#### 📈 [WallStreet LLM - Domain-Specific Fine-Tuning & ReAct Agent](https://github.com/sasy2901/WallStreet_Financial_Agent)
 End-to-end ML optimization pipeline featuring parameter-efficient fine-tuning (PEFT), data deduplication, and high-throughput inference.
 * **Optimization:** Leveraged Unsloth and 4-bit Quantization (QLoRA) to fine-tune Llama-3 8B on consumer GPUs while avoiding memory bottlenecks.
 * **Data Engineering:** Implemented MinHash LSH (datasketch) for O(1) duplicate detection, cutting noise and accelerating training convergence by 2x.
